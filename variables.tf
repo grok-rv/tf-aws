@@ -39,3 +39,6 @@ variable "environment" {
 variable "owner" {
   default = "ram"
 }
+variable "department" {
+  default = "devops"
+}
