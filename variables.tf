@@ -33,7 +33,7 @@ variable "asg_tags" {
 }
 
 variable "environment" {
-  default = "qax"
+  default = "sbx-env"
 }
 
 variable "owner" {
